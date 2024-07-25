@@ -164,9 +164,9 @@
     width: 0;
     height: 0;
     left: -1px;
-    border-left: 16px solid var(--primary);
-    border-top: 11px solid transparent;
-    border-bottom: 11px solid transparent;
+    /* border-left: 25px solid var(--primary);
+    border-top: 5px solid transparent;
+    border-bottom: 20px solid transparent; */
 }
 
 @keyframes pulse-border {
